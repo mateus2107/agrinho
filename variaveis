@@ -1,0 +1,4 @@
+jardineiro;
+let plantas=[];
+let temperatura=10;
+let totalArvores=0;
